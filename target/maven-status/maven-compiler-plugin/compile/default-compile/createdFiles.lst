@@ -1,0 +1,8 @@
+com/gcio/jsfWebApplication/model/Person.class
+com/gcio/jsfWebApplication/JsfWebApplication.class
+com/gcio/jsfWebApplication/service/SequenceGeneratorService.class
+com/gcio/jsfWebApplication/model/DbSequence.class
+com/gcio/jsfWebApplication/repository/PersonRepository.class
+com/gcio/jsfWebApplication/controller/PersonListController.class
+com/gcio/jsfWebApplication/controller/PersonRegisterController.class
+com/gcio/jsfWebApplication/controller/RedirectController.class
